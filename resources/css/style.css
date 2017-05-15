@@ -80,8 +80,9 @@ nav a {
   color: #333333;
   font-weight: 100;
   line-height: 34px;
-  width: 90%;
-  margin-top: 18px;
+  width: 50%;
+  margin: 18px auto;
+
 }
 
 /* Content Button */
